@@ -70,6 +70,8 @@ function onLoadMore() {
     .catch(error => console.log(error));
 }
 
+
+
 function clearFormGallery() {
   gallery.innerHTML = '';
 }
